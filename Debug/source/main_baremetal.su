@@ -1,0 +1,9 @@
+../source/main_baremetal.c:43:5:main	8	static
+../source/main_baremetal.c:68:6:drvLedOk	8	static
+../source/main_baremetal.c:73:6:drvLedError	8	static
+../source/main_baremetal.c:78:6:lcdInitModule	8	static
+../source/main_baremetal.c:122:6:lcdDisplayBootScreen	8	static
+../source/main_baremetal.c:131:6:lcdDisplayHumidity	24	static
+../source/main_baremetal.c:144:6:lcdDisplayTemperature	24	static
+../source/main_baremetal.c:158:6:adcInitModule	8	static
+../source/main_baremetal.c:174:6:adcReadInput	16	static

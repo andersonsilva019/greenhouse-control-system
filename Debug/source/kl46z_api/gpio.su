@@ -1,0 +1,4 @@
+../source/kl46z_api/gpio.c:27:6:gpioPinInit	24	static
+../source/kl46z_api/gpio.c:50:6:gpioPinWrite	24	static
+../source/kl46z_api/gpio.c:69:6:gpioPinToggle	24	static
+../source/kl46z_api/gpio.c:79:12:gpioPinRead	16	static

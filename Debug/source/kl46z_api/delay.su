@@ -1,0 +1,5 @@
+../source/kl46z_api/delay.c:84:6:Delay_Init	8	static
+../source/kl46z_api/delay.c:111:6:Wait10Cycles	0	static
+../source/kl46z_api/delay.c:152:6:Wait100Cycles	0	static
+../source/kl46z_api/delay.c:191:6:Delay_WaitCycles	16	static
+../source/kl46z_api/delay.c:233:6:Delay_Waitms	16	static

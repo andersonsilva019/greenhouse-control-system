@@ -1,0 +1,5 @@
+../source/kl46z_api/drivers.c:17:6:drvCpuClockInit	8	static
+../source/kl46z_api/drivers.c:25:6:drvLedInit	8	static
+../source/kl46z_api/drivers.c:40:6:drvButtonInit	8	static
+../source/kl46z_api/drivers.c:55:6:drvLedSet	24	static
+../source/kl46z_api/drivers.c:73:18:drvCheckButtonPressed	24	static

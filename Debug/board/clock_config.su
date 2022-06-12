@@ -1,0 +1,8 @@
+/home/pedrobotelho15/Área de Trabalho/Projetos com K32L2B3/Estufa-RTOS-KL46Z/drivers/fsl_clock.h:791:20:CLOCK_SetSimSafeDivs	8	static
+/home/pedrobotelho15/Área de Trabalho/Projetos com K32L2B3/Estufa-RTOS-KL46Z/drivers/fsl_clock.h:1122:20:CLOCK_SetXtal0Freq	16	static
+/home/pedrobotelho15/Área de Trabalho/Projetos com K32L2B3/Estufa-RTOS-KL46Z/drivers/fsl_smc.h:286:20:SMC_SetPowerModeProtection	16	static
+/home/pedrobotelho15/Área de Trabalho/Projetos com K32L2B3/Estufa-RTOS-KL46Z/drivers/fsl_smc.h:305:33:SMC_GetPowerModeState	16	static
+../board/clock_config.c:98:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:110:13:CLOCK_CONFIG_SetFllExtRefDiv	16	static
+../board/clock_config.c:194:6:BOARD_BootClockRUN	8	static
+../board/clock_config.c:287:6:BOARD_BootClockVLPR	8	static

@@ -1,0 +1,5 @@
+../source/kl46z_api/clock.c:33:6:clkEnablePeripheralClock	16	static
+../source/kl46z_api/clock.c:46:6:clkEnableClock	16	static
+../source/kl46z_api/clock.c:70:6:clkSetMainClock	16	static
+../source/kl46z_api/clock.c:90:6:clkGetMainClock	8	static
+../source/kl46z_api/clock.c:116:6:clkGetERClock	8	static
